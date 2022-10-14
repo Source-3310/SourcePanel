@@ -1,0 +1,2 @@
+# Example of adding to the block list
+# 127.0.0.1 www.youtube.com
