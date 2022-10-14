@@ -1,2 +1,21 @@
 # Example of adding to the block list
 # 127.0.0.1 www.youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 epicgames.com
+127.0.0.1 store.epicgames.com
+127.0.0.1 tlauncher.org
+127.0.0.1 steamcommunity.com
+127.0.0.1 store.steampowered.com
+127.0.0.1 steampowered.com
+127.0.0.1 steamgames.com
+127.0.0.1 steamusercontent.com
+127.0.0.1 steamcontent.com
+127.0.0.1 steamstatic.com
+127.0.0.1 akamaihd.net
+127.0.0.1 tlrepo.com
+127.0.0.1 prostotrainer.ru
+127.0.0.1 instagram.com
+127.0.0.1 cm.steampowered.com
+127.0.0.1 api.steampowered.com
+127.0.0.1 localhost:9428
+127.0.0.1 steamcdn-a.akamaihd.net
