@@ -19,4 +19,3 @@
 127.0.0.1 api.steampowered.com
 127.0.0.1 localhost:9428
 127.0.0.1 steamcdn-a.akamaihd.net
-Mine
