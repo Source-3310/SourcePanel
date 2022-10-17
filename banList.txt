@@ -23,3 +23,6 @@
 127.0.0.1 web.telegram.org
 127.0.0.1 telegram.org
 127.0.0.1 vk.com
+127.0.0.1 facebook.com
+127.0.0.1 instagram.com
+127.0.0.1 fb.com
